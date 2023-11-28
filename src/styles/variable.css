@@ -1,0 +1,44 @@
+:root {
+    --tablet: 375px;
+    --desktop: 1440px;
+
+    --dark: rgba(0, 0, 0, 1);
+    --dark-opacity: rgba(0, 0, 0, 0.3);
+
+    --primary: blue;
+    --success: green;
+    --danger: red;
+    --warning: yellow;
+    --secondary: pink;
+    --muted: gray;
+
+    --primary-opacity: rgba(0,0,255,0.5);
+    --success-opacity: rgba(0,128,0,0.5);
+    --danger-opacity: rgba(255,0,0,0.5);
+    --warning-opacity: rgba(255,255,0,0.5);
+
+    --fw-sm: 300;
+    --fw-md: 500;
+    --fw-lg: 700;
+    --fw-xl: 900;
+
+    --fs-xs: 12px;
+    --fs-sm: 14px;
+    --fs-md: 16px;
+    --fs-lg: 18px;
+    --fs-xl: 24px;
+    --fs-2xl: 32px;
+    --fs-3xl: 48px;
+
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-5: 20px;
+    --space-6: 24px;
+    --space-7: 28px;
+    --space-8: 32px;
+    --space-9: 36px;
+    --space-10: 40px;
+    --space-11: 44px;
+}
